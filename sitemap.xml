@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://alphatero.github.io/2025/02/02/%E9%83%A8%E8%90%BD%E6%A0%BC%E4%BB%8B%E7%B4%B9/</loc>
+    <loc>https://alphatero.github.io/talk/20250202/3171721102/</loc>
     
     <lastmod>2025-02-02</lastmod>
     
@@ -20,5 +20,12 @@
 
   
 
+  
+  <url>
+    <loc>https://alphatero.github.io/categories/talk/</loc>
+    <lastmod>2025-02-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
